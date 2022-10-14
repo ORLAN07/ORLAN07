@@ -11,8 +11,8 @@ Twitter:  Linkedin: Orlando Rubio Rivas GitHub ORLAN07
  A little more about me...
 const orlan07 = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Php, Java, Python],
-  tools: [Angular, Node, Jest, Docker],
+  code: [Javascript, Typescript, HTML, CSS, PHP, Java, Python],
+  tools: [Angular, Node, Jest, Docker, AWS, Spring Boot],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "",
